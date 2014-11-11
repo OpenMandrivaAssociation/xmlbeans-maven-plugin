@@ -1,3 +1,4 @@
+%{?_javapackages_macros:%_javapackages_macros}
 Name:          xmlbeans-maven-plugin
 Version:       2.3.3
 Release:       3%{?dist}
